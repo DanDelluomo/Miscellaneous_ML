@@ -1,0 +1,70 @@
+Actual Copy Numbers:
+Sample1 : 2
+Sample2 : 2
+Sample3 : 0
+Sample4 : 2
+Sample5 : 1
+Sample6 : 1
+Sample7 : 1
+Sample8 : 3+
+Sample9 : 1
+Sample10 : 3+
+Sample11 : 1
+Sample12 : 2
+Sample13 : 2
+Sample14 : 0
+Sample15 : 2
+Sample16 : 1
+Sample17 : 1
+Sample18 : 1
+Sample19 : 3+
+Sample20 : 1
+Sample21 : 3+
+Sample22 : 1
+Sample23 : 2
+Sample24 : 2
+Sample25 : 0
+Sample26 : 2
+Sample27 : 1
+Sample28 : 1
+Sample29 : 1
+Sample30 : RERUN
+Sample31 : 1
+Sample32 : 3+
+Sample33 : 1
+Sample34 : 2
+Sample35 : 2
+Sample36 : 0
+Sample37 : 2
+Sample38 : 1
+Sample39 : 1
+Sample40 : 1
+Sample41 : 3+
+Sample42 : 1
+Sample43 : 3+
+Sample44 : 1
+Sample45 : 2
+Sample46 : 2
+Sample47 : 0
+Sample48 : 2
+Sample49 : 1
+Sample50 : 1
+Sample51 : 0
+Sample52 : 0
+Sample53 : RERUN
+Sample54 : RERUN
+Sample55 : RERUN
+Sample56 : 3+
+Sample57 : 3+
+Sample58 : 3+
+Sample59 : RERUN
+The coefficient of variation for samples with 0 expected copies is 0.186
+The coefficient of variation for samples with 1 expected copy is 0.12
+The coefficient of variation for samples with 2 expected copies is 0.129
+The coefficient of variation for samples with 3+ expected copies is 0.16
+The overall accuracy for samples with an expected copy number of 0 is 100.0 %
+The overall accuracy for samples with an expected copy number of 1 is 90.91 %
+The overall accuracy for samples with an expected copy number of 2 is 78.95 %
+The overall accuracy for samples with an expected copy number of 3+ is 90.91 %
+The overall accuracy of the assay is 86.44 %
+
